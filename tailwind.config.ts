@@ -13,6 +13,17 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      colors: {
+        "forest-green": "#294B29",
+        "moss-green": "#294B29",
+        "olive-green": "#294B29",
+        "pale-mint": "#294B29",
+      },
+      fontFamily: {
+        poppins: "Poppins",
+        "poppins-bold": "PoppinsBold",
+        "poppins-black": "PoppinsBlack",
+      },
     },
   },
   plugins: [],
