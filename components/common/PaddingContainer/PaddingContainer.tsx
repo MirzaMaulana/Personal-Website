@@ -5,7 +5,11 @@ interface PaddingContainerProps {
 }
 
 const PaddingContainer: FC<PaddingContainerProps> = ({ children }) => {
-  return <div className="max-w-screen-xl w-full px-36 m-auto">{children}</div>;
+  return (
+    <div className="max-w-screen-xl w-full md:px-36 m-auto px-8">
+      {children}
+    </div>
+  );
 };
 
 export default PaddingContainer;

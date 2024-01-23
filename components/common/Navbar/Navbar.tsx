@@ -15,7 +15,7 @@ export default function Navbar({}) {
               Mirza Maulana
             </p>
           </Link>
-          <ul className="flex font-poppins space-x-5 list-none">
+          <ul className="flex font-poppins space-x-5 list-none text-forest-green">
             <li>
               <Link href={"/"} className="text-sm">
                 Home
@@ -37,8 +37,8 @@ export default function Navbar({}) {
               </Link>
             </li>
           </ul>
-          <div className="px-6 py-2 border-2 border-moss-green rounded-lg hover:bg-moss-green hover:text-white text-sm font-semibold tracking-wide">
-            <p className="font-poppins">Download CV</p>
+          <div className="px-6 py-2 border-2 border-moss-green rounded-lg text-forest-green cursor-pointer hover:bg-moss-green hover:text-white text-sm font-semibold tracking-wide">
+            <p className="font-poppins ">Download CV</p>
           </div>
         </div>
       </PaddingContainer>
