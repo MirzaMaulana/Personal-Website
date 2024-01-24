@@ -3,8 +3,8 @@ import React, { ReactNode } from "react";
 enum ColorProps {
   forest = "forest-green",
   moss = "moss-green",
-  olive = "olive-green",
-  pale = "pale-mint",
+  minty = "minty-fresh",
+  pearl = "pearl-white",
 }
 
 enum RoundedProps {

@@ -15,9 +15,9 @@ const config: Config = {
       },
       colors: {
         "forest-green": "#294B29",
-        "moss-green": "#50623A",
-        "olive-green": "#789461",
-        "pale-mint": "#DBE7C9",
+        "pearl-white": "#FBF6EE",
+        "minty-fresh": "#C1F2B0",
+        "moss-green": "#65B741",
       },
       fontFamily: {
         poppins: "Poppins",

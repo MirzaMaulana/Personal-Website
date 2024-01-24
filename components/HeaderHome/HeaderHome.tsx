@@ -20,7 +20,11 @@ export default function HeaderHome() {
         </p>
         <div className="flex gap-5 items-center">
           <Link href={"/contact"} className="font-semibold tracking-wide">
-            <Button background={"moss"} className="text-white" rounded={"lg"}>
+            <Button
+              background={"moss"}
+              className="text-white hover:shadow-md transition-all"
+              rounded={"lg"}
+            >
               Contact Me
             </Button>
           </Link>
