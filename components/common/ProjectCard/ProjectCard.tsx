@@ -25,10 +25,10 @@ export default function ProjectCard({
         <Image className="rounded-t-lg" src={image} alt="" />
       </Link>
       <div className="p-6">
-        <h5 className="text-forest-green text-xl font-medium tracking-wide mb-2">
+        <h5 className="text-moss-green text-xl font-semibold tracking-wider mb-2">
           {cardTitle}
         </h5>
-        <p className="text-moss-green text-base mb-4">{cardDescription}</p>
+        <p className="text-forest-green text-base mb-4">{cardDescription}</p>
         <span className="text-xs text-white">
           {tech.map((technology, index) => (
             <button
