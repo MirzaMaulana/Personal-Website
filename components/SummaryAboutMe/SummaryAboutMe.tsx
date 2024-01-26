@@ -25,8 +25,8 @@ export default function SummaryAboutMe({}: Props) {
             </h1>
             <p className="my-5 text-white">
               As a passionate software engineering student at SMK Muhammadiyah 1
-              Sukoharjo, my focus is on web development. I've been hooked on
-              coding since the tender age of 16 and have since
+              Sukoharjo, my focus is on web development. I&apos;ve been hooked
+              on coding since the tender age of 16 and have since
               <br />
               dedicated myself to mastering the craft of creating dynamic and
               responsive web applications.

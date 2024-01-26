@@ -8,13 +8,13 @@ export default function HeaderHome() {
     <PaddingContainer>
       <section className="mt-20 font-poppins">
         <p className="text-forest-green font-poppins font-medium tracking-wider">
-          Hi, Welcome I'm
+          Hi, Welcome I&apos;m
         </p>
         <h1 className="font-poppins-bold text-moss-green my-5 text-4xl md:text-6xl ">
           Mirza Maulana
         </h1>
         <p className="my-4 text-md text-forest-green">
-          I’m a Software Engineering Student,
+          I&apos;m a Software Engineering Student,
           <br />
           focusing in Web Development.
         </p>
