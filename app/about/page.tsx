@@ -18,7 +18,7 @@ export default function page({}: Props) {
             Mirza Maulana Fauzian Risky
           </h1>
           <p className="text-forest-green mb-5 mt-2 font-poppins text-justify">
-            I'm an 18-year-old Software Engineering student from SMK
+            I&apos;m an 18-year-old Software Engineering student from SMK
             Muhammadiyah 1 Sukoharjo, Indonesia, born on January 15, 2006. I
             developed a passion for coding at 16, though I admit struggling with
             logic and algorithms. Beyond coding, I love Pop, Jazz, Rhythm and
