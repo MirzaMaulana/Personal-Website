@@ -11,7 +11,7 @@ export default function page({}: Props) {
         <h1 className="text-4xl font-bold">My Expertise Area</h1>
       </section>
       <section className="md:max-w-6xl md:m-auto">
-        <ul className="font-poppins list-decimal text-forest-green">
+        <ul className="font-poppins list-none text-forest-green">
           <p className="font-bold text-moss-green text-lg">Front/Backend</p>
           <li className="mx-6 my-2 flex justify-between">
             <p>HTML 5</p>
@@ -34,7 +34,7 @@ export default function page({}: Props) {
             <p>Beginner</p>
           </li>
         </ul>
-        <ul className="font-poppins list-decimal my-3">
+        <ul className="font-poppins list-none my-3">
           <p className="font-bold text-moss-green text-lg">Framework</p>
           <li className="mx-6 my-2 flex justify-between">
             <p>Bootstrap</p>
@@ -61,13 +61,13 @@ export default function page({}: Props) {
             <p>Beginner</p>
           </li>
         </ul>
-        <ul className="font-poppins list-decimal my-3">
+        <ul className="font-poppins list-none my-3">
           <p className="font-bold text-moss-green text-lg">Version Control</p>
           <li className="mx-6 my-2 flex justify-between">
             <p>Git</p>
           </li>
         </ul>
-        <ul className="font-poppins list-decimal my-3">
+        <ul className="font-poppins list-none my-3">
           <p className="font-bold text-moss-green text-lg">Support</p>
           <li className="mx-6 my-2 flex justify-between">
             <p>Figma</p>
