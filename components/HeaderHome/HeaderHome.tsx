@@ -6,7 +6,7 @@ import Button from "../common/Button/Button";
 export default function HeaderHome() {
   return (
     <PaddingContainer>
-      <section className="mt-20 font-poppins">
+      <section className="mt-28 font-poppins">
         <p className="text-forest-green font-poppins font-medium tracking-wider">
           Hi, Welcome I&apos;m
         </p>
